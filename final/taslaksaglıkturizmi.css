@@ -31,10 +31,10 @@ nav ul li a:hover{
 }
 .section1{
     width: 100%;
-    
 }
 .section1 .container{
     width: 70%;
     margin-left: 10%;
     padding: 5%;
+    overflow: hidden;
 }
