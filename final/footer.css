@@ -22,7 +22,7 @@ footer .alt li, a{
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
 }
-footer .alt li ul a:hover{
+footer .alt ul li a:hover{
     list-style:none;
     line-height:40px ;
     color: #000000;

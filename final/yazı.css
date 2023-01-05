@@ -20,7 +20,7 @@ ol{
     margin-left: 2%;
     margin-bottom: 1%;
 }
-ol li{
+.section1 .container ol li{
     font-size: 24px;
 }
 img{
@@ -34,10 +34,24 @@ img{
     width: 48%;
     height: 400px;
 }
-ol li a{
+.section1 .container ol li a{
     text-decoration: none;
     color: black;
 }
-ol li a:hover{
+.section1 .container ol li a:hover{
     color: brown;
+}
+.section1 .container ol li a{
+    color: rgb(132, 0, 0);
+    font-style: italic;
+}
+.section1 .container ol li a:hover{
+    color: rgb(0, 0, 0);
+    font-style:normal;
+}
+img{
+    margin-top: 2%;
+}
+h2{
+    margin-top: 2%;
 }
